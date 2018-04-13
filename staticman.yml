@@ -20,7 +20,7 @@ comments:
   allowedOrigins: ["localhost", "frostyfrog.net"]
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "New comment from {fields-name}"
+  commitMessage: "New comment from {fields.name}"
 
   # (*) REQUIRED
   #
